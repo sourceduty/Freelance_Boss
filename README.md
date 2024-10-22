@@ -8,6 +8,10 @@
 Additionally, this custom GPT can help prioritize tasks, suggest management strategies, and track billing for freelance work. It simplifies processes such as organizing deliverables, tracking deadlines, and ensuring that all members of a project team understand their roles. The tool ensures that project workflows run smoothly by automating many of the typical project management functions, which allows users to focus on the actual content and creativity of the work. Its main goal is to reduce friction in freelance collaboration, creating a seamless experience for both freelancers and project managers.
 
 #
+
+![Boss](https://github.com/user-attachments/assets/67ce1b7e-c64e-43c7-b557-e41ca6ff41c6)
+
+#
 ### Related Links
 
 [ChatGPT](https://github.com/sourceduty/ChatGPT)
