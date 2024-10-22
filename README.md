@@ -11,6 +11,10 @@ Additionally, this custom GPT can help prioritize tasks, suggest management stra
 ### Related Links
 
 [ChatGPT](https://github.com/sourceduty/ChatGPT)
+<br>
+[Employee Agent](https://github.com/sourceduty/Employee_Agent)
+<br>
+[Simulated Boss](https://github.com/sourceduty/Simulated_Boss)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
